@@ -1,0 +1,5 @@
+{
+  "name": "Starry Flowers - Pastille Theme",
+  "artist": "@katdak",
+  "theme": {"TipT":"#ffffff","Trk":"#a37da8","KfFree":"#dc75c2","MenuHov":"#fc72e0>#7e3970@90","Ph":"#ad89a5","Rec":"#cab3e8>#84639f@90","CtrlIc":"#c2d1fc","TopT":"#d6deff","Sel":"#ad89a5","Top":"#593a5d","Ctrl":"#ad89a5","Menu":"#714178","TopBtn":"#a26f98","Imgt":0.75,"KfVec":"#dc75c2","Img":"118625288205073","MenuSel":"#ad89a5","ImgLayout":{"scale":1,"x":0,"y":0},"AddBtn":"#da71c4","Tick":"#f9bcff","M":"A","Pnl":"#906396","Bg":"#9657c5>#452d48@90","TopStrk":"#d79090","Txt":"#ffffff","Tip":"#6e4773","Strk":"#3e3f60","Div":"#9e77a4","KfH":"#8f4c7e","KfD":"#dc75c2","KfS":"#ad89a5","V":1,"Scr":"#ffffff","Loop":"#ad89a5","LoopOff":"#655276>#363b64@90","RecOff":"#49365d","KfAC":"#dc75c2","KfAuto":"#dc75c2","KfAli":"#dc75c2","Slider":"#ad89a5"}
+}

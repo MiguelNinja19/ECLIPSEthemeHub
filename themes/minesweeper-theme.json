@@ -1,0 +1,5 @@
+{
+  "name": "Minesweeper Theme",
+  "artist": "@thelazane",
+  "theme": {"KfAli":"#7b0400","Trk":"#808080","ImgMode":"gif","KfFree":"#2955af","MenuHov":"#0000c2","Ph":"#000000","Rec":"#fb0102","CtrlIc":"#000000","TopT":"#000000","Sel":"#4b9796","Top":"#0000c2","Ctrl":"#ffffff","Menu":"#808080","TopBtn":"#ffffff","Imgt":0,"KfVec":"#1e8f41","KfD":"#cc00ff","KfAC":"#0100fb","ImgLayout":{"scale":1,"x":0,"y":0},"TrackOn":"#ff0001","MenuSel":"#ffde72","Bgt":0,"AddBtn":"#0100fb","KfHt":0,"KfH":"#c22071","Tick":"#000000","M":"A","Pnl":"#808080","Bg":"#ffffff","KfS":"#fb0102","Txt":"#141418","Tip":"#757575","Strk":"#808080","Scr":"#000000","TipT":"#000000","TopStrk":"#000000","LoopOff":"#ffffff","V":1,"RecOff":"#a54848","Loop":"#007f00","Div":"#808080","Img":"134861421629667","Gif":[{"id":"84086316408523","ms":33.333333333333339}],"KfAuto":"#000082","TrackOff":"#baa0a0","Slider":"#808080"}
+}

@@ -1,0 +1,5 @@
+{
+  "name": "The eyes.",
+  "artist": "@seven",
+  "theme": {"TipT":"#ffffff","Trk":"#6f6f70","ImgMode":"gif","Scr":"#99979a","Ph":"#d4d3d4","Rec":"#dad7d7","RecOff":"#151515","LoopOff":"#151415","Sel":"#3d3c3d","Top":"#0d0d0d","Gif":[{"id":"115404095753193","ms":150},{"id":"110239464634435","ms":150},{"id":"101649031834605","ms":150},{"id":"117744206477037","ms":150},{"id":"80544683157997","ms":150},{"id":"75534503375171","ms":150},{"id":"132015105731576","ms":150},{"id":"115670491468925","ms":150},{"id":"131748842583289","ms":150},{"id":"94102130285850","ms":150}],"KfH":"#ffffff","TopStrkt":1,"Pnlt":0,"Trkt":0.22,"Imgt":0,"Img":"95403799267540","MenuSel":"#323232","AddBtn":"#d0cfd2","TopBtn":"#131313","Divt":1,"Tick":"#ffffff","M":"A","Pnl":"#151515","Bg":"#0f0f10","Div":"#bcbbbd","Txt":"#fbf9fc","Tip":"#222223","Strk":"#9e9c9f","TopT":"#fbf9fc","MenuHov":"#242425","KfD":"#f5f2f7","KfS":"#b2afaf","V":1,"Menu":"#252525","Loop":"#e2e0e0","Ctrlt":0,"Strkt":1,"Ctrl":"#333235","TopStrk":"#141418","CtrlIc":"#eae5e5","Slider":"#cac9c9"}
+}
