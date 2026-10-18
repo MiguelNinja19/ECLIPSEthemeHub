@@ -1,0 +1,5 @@
+{
+  "name": "Pastel Blue Theme [COLORS ONLY]",
+  "artist": "@seralune",
+  "theme": {"TipT":"#ececec","Trk":"#8d98d7","MenuHov":"#2e2e33","Ph":"#6b79c7","Rec":"#aeb7ea","CtrlIc":"#b4bdca","LoopOff":"#655276","Sel":"#6b79c7","Top":"#3a3a40","Ctrl":"#47474e","Menu":"#414147","Tickt":0.05,"Trkt":0.2,"TopBtnt":1,"TrackOn":"#ffffff","MenuSel":"#6b79c7","AddBtn":"#8e9be7","Tick":"#a2a2ac","M":"A","Pnl":"#2e2e33","Bg":"#47474e","TopBtn":"#57575d","Txt":"#ececec","Tip":"#2e2e33","Strk":"#60606a","Div":"#56565e","TopT":"#ececec","TopStrk":"#60606a","KfD":"#e6daef","V":1,"KfH":"#ffffff","Loop":"#a3aff2","KfS":"#6b79c7","Scr":"#94949e","RecOff":"#49365d","KfAuto":"#b5bdea","TrackOff":"#505168","Slider":"#a3aff2"}
+}

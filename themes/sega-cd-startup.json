@@ -1,0 +1,5 @@
+{
+  "name": "Sega CD Startup",
+  "artist": "@martyrstars",
+  "theme": {"TipT":"#000000","Trk":"#ffffff","Scr":"#b5dbff","Ph":"#ffffff>#ffffff@90","Rec":"#ffffff>#94b6ff@90","CtrlIc":"#000000","LoopOff":"#ffffff>#4b6baf@90","Sel":"#ffffff","Top":"#b5dbff","Ctrl":"#ffffff>#b5dbff@90","KfH":"#ffffff","TopStrkt":1,"TopBtn":"#ffffff>#b5dbff@90","Imgt":0.5,"MenuSelt":0,"TopBtnt":0,"Img":"rbxtemp://194","MenuSel":"#ffffff>#b5dbff@90","Bgt":0,"AddBtn":"#ffffff>#94b6ff@90","Tick":"#ffffff","M":"A","Pnl":"#deffff","Bg":"#94b6ff>#deffff@90","Txt":"#000000","Tip":"#ffffff","Strk":"#deffff","Div":"#b5dbff","KfD":"#ffffff","TopT":"#000000","V":1,"MenuHov":"#ffffff","Loop":"#ffffff>#94b6ff@90","Slider":"#ffffff>#b5dbff@90","Menu":"#b5dbff","TopStrk":"#b5dbff","KfS":"#808080>#94b6ff@90","RecOff":"#c5c5c5","Topt":0}
+}
