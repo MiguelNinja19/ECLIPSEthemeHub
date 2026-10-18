@@ -1,0 +1,5 @@
+{
+  "name": "Blackhole",
+  "artist": "@Schemic",
+  "theme": {"TipT":"#f0e8f7","Trk":"#383838","ImgMode":"gif","KfFree":"#ee95c0","MenuHov":"#2d2d2d","Ph":"#ffffff","Rec":"#ffffff","CtrlIc":"#ffffff","TopT":"#f2eafa","Sel":"#263c56","Top":"#000000","Ctrl":"#000000","Menu":"#000000","TopBtn":"#131313","Imgt":0.85,"KfVec":"#edc66c","TrackOn":"#ffffff","MenuSel":"#263c56","AddBtn":"#eaeaea","KfD":"#cacaca","KfAli":"#c59aff","Tick":"#b8b8b8","M":"A","Pnl":"#101010","Bg":"#000000","Gif":[{"id":"5436396975","ms":33.333333333333339}],"Txt":"#ece5f3","Tip":"#050505","Strk":"#404040","KfH":"#ffffff","KfS":"#77b7ff","TopStrk":"#303030","Scr":"#ffffff","V":1,"LoopOff":"#292929","Loop":"#eaeaea","RecOff":"#292929","KfAC":"#e4e4e4","Div":"#404040","KfAuto":"#80d6a3","TrackOff":"#7d7d7d","Slider":"#b2b2b2"}
+}
