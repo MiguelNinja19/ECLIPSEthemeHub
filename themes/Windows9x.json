@@ -1,0 +1,5 @@
+{
+  "name": "Windows 9x",
+  "artist": "@NebulaDuck",
+  "theme": {"KfAli":"#97000f","Trk":"#686868","KfFree":"#002d87","MenuHov":"#727272","Ph":"#a20000","Rec":"#d20000>#8d0000@45","CtrlIc":"#000000","TopT":"#ffffff","Sel":"#0900ad","Top":"#0900ad","Ctrl":"#c2c2c2>#5d5d5d@45","Menu":"#a2a2a2","Slider":"#000000","Pnlt":0.6,"Tickt":0,"TopStrk":"#0a00c5","Trkt":0.22,"TopBtn":"#0900ad>#0900ad@90","KfVec":"#1d8700","KfHt":0,"KfH":"#bac7ff","KfS":"#0900ad","TrackOn":"#36ca00","MenuSel":"#cdcbcb","AddBtnt":0.2,"AddBtn":"#b2b2b2>#7a7a7a@45","Scrt":0,"MenuHovt":0,"Tick":"#000000","M":"A","Pnl":"#979797","Bg":"#bdbdbd","Scr":"#9a9a9a","Txt":"#000000","Tip":"#ffffff","Strk":"#808080","Divt":0,"LoopOff":"#3d60ff","KfD":"#0900ad","RecOff":"#000000","V":1,"TipT":"#141418","Loop":"#b5b5b5>#858585@45","Div":"#929292","Strkt":0.1,"KfAC":"#656565","KfAuto":"#873a00","Ctrlt":0,"Menut":0}
+}

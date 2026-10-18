@@ -1,0 +1,5 @@
+{
+  "name": "Purple City",
+  "artist": "@Agent_Apex",
+  "theme": {"TipT":"#f0e8f7","Trk":"#a749b5","MenuHov":"#763a85","Ph":"#d085f2","Rec":"#cab3e8>#84639f@90","CtrlIc":"#240f45","TopT":"#f2eafa","Sel":"#875a98","Top":"#6e268f>#420b5a@90","Ctrl":"#b166da>#5e1970@90","Menu":"#5e2470>#3d1b4a@90","Trkt":0.22,"Imgt":0.8,"Img":"92445655869849","MenuSel":"#955a98","AddBtn":"#cec0ec>#8876af@90","Tick":"#b4a3c4","M":"A","Pnl":"#4c1868","Bg":"#b65cdf>#151321@90","TopBtn":"#b166da>#5e1970@90","Txt":"#ece5f3","Tip":"#561e68","Strk":"#743478","Div":"#9e00cf","KfD":"#c368f4","TopStrk":"#050008","KfH":"#d986ff","V":1,"KfS":"#da90f2","Loop":"#d4b5f0>#7279b8@90","Scr":"#b161bd","TrackOn":"#ad3dff","LoopOff":"#655276>#363b64@90","RecOff":"#49365d","TrackOff":"#6f1f7a","Slider":"#9f3cb2"}
+}

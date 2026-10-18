@@ -1,0 +1,5 @@
+{
+  "name": "Hu Tao Theme",
+  "artist": "@Duckster",
+  "theme": {"TipT":"#ffdbe0","Trk":"#4a1620","ImgMode":"gif","MenuHov":"#3d1018","Ph":"#ff9d4d","Rec":"#8c79d2>#442d62@90","CtrlIc":"#0a1438","TopT":"#f2afa9","Sel":"#cc2f4a","Top":"#5a1c17>#2d0e0c@90","Ctrl":"#6443d9>#282765@90","Menu":"#501c26>#180408@90","Trkt":0.2,"Imgt":0.6,"KfVec":"#3c56a5","TopBtnt":0,"Img":"137028791576038","MenuSel":"#8f3645","AddBtn":"#8c79d2>#442d62@90","TopBtn":"#4a1117","Gif":[{"id":"137028791576038","ms":33.333333333333339}],"Tick":"#e08f9c","M":"A","Pnl":"#581812>#1d0402@15","Bg":"#a63d33>#2b0412@90","KfD":"#c78f9c","Txt":"#dfb3ae","Tip":"#3d1018","Strk":"#7e3140","KfH":"#af1b33","KfS":"#ff4d6a","TopStrk":"#320f0c","Scr":"#f2612e","V":1,"LoopOff":"#251562>#140840@90","Loop":"#8c79d2>#442d62@90","RecOff":"#251562>#140840@90","KfAC":"#f2c1c1","Div":"#6e2a35","TrackOn":"#bf6734","TrackOff":"#822c18","Slider":"#6e2a35"}
+}
