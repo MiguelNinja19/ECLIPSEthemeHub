@@ -1,0 +1,5 @@
+{
+  "name": "Robux Theme",
+  "artist": "@Schemic",
+  "theme": {"TipT":"#f0e8f7","Trk":"#383838","ImgMode":"gif","KfFree":"#ee95c0","MenuHov":"#2d2d2d","Ph":"#ffffff","Rec":"#ffffff","CtrlIc":"#ffffff","TopT":"#f2eafa","Sel":"#263c56","Top":"#72921d","Ctrl":"#000000","Menu":"#000000","TopBtn":"#131313","Imgt":0.85,"KfVec":"#edc66c","TrackOn":"#ffffff","MenuSel":"#053d17","KfD":"#cacaca","AddBtn":"#eaeaea","KfAC":"#e4e4e4","KfAli":"#c59aff","Tick":"#b8b8b8","M":"A","Pnl":"#101010","Bg":"#000000","KfH":"#ffffff","Txt":"#ece5f3","Tip":"#050505","Strk":"#1a953d","KfS":"#77b7ff","Scr":"#ffffff","TopStrk":"#306d10","RecOff":"#292929","V":1,"LoopOff":"#292929","Loop":"#eaeaea","Img":"11713337390","Gif":[{"id":"11713337390","ms":33.333333333333339},{"id":"11713337390","ms":33.333333333333339}],"Div":"#286005","KfAuto":"#80d6a3","TrackOff":"#7d7d7d","Slider":"#b2b2b2"}
+}
